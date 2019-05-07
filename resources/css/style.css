@@ -16,10 +16,6 @@ html {
     text-rendering: optimizeLegibility;
 }
 
-/* ------------------- */
-/* REUSABLE COMPONENTS */
-/* ------------------- */
-
 .row{
     max-width: 1140px;
     margin: o auto;
