@@ -1,23 +1,28 @@
-# Website
+# Sonnenschein Website
+This website is being create for a family business. I do not have web-developing experience but I do have a great desire to constantly be learning. Therefore, I am taking a MOOC (massive open online courses) course and working on the project in parallel.  
 
-## 1. Description
+**Course:** [Build Responsive Real World Website with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
 
-### Objectives
+**Instructor:** [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/)
 
-### Audience
+**Learning Platform:** [Udemy](https://www.udemy.com/)
 
-## 2. Definition
 
-### Website style
-One-page website with a simple navigation.
+## Description
 
-### Content
-Not yet provided.
+**Objectives:**
 
-### Navigation
-Not yet provided.
+**Audience:**
 
-## 3. Structure 
+## Definition
+
+**Website style:** One-page website with a simple navigation.
+
+**Content:** Not yet provided.
+
+**Navigation:** Not yet provided.
+
+## Structure 
 - Header
 - Features
 - Product description
@@ -28,10 +33,8 @@ Not yet provided.
 - Contact
 - Footer
 
-## 4. Desing
+## Desing
 
-### Color
-Light green
+**Color:** Light green
 
-### Font 
-Lato and Sans-serif
+**Font:** Lato and Sans-serif
