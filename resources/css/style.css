@@ -99,3 +99,9 @@ h1 {
     border: 1px solid #1ba25b;
     color: #fff;
 }
+
+.logo {
+    height: 100px;
+    width: auto;
+    float: left;
+}
