@@ -49,9 +49,13 @@ section {
     padding: 80px 0;
 }
 
+.box {
+    padding: 1%;
+}
+
 /* ----- HEADLINES ----- */
 
-h1, h2 {
+h1, h2, h3 {
     font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -80,6 +84,12 @@ h2:after {
     margin: 0 auto;
     margin-top: 30px;
     content: " ";
+}
+
+h3 {
+    font-size: 110%;
+    margin-bottom: 15px;
+    letter-spacing: 0;
 }
 
 /* ----- PARAGRAPHS ----- */
