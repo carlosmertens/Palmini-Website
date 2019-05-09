@@ -53,6 +53,15 @@ section {
     padding: 1%;
 }
 
+/* ----- ICONS ----- */
+
+.icon-big {
+    font-size: 350%;
+    display: block;
+    color: #20bf6b;
+    margin-bottom: 10px;
+}
+
 /* ----- HEADLINES ----- */
 
 h1, h2, h3 {
