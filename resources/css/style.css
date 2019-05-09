@@ -82,6 +82,14 @@ h2:after {
     content: " ";
 }
 
+/* ----- PARAGRAPHS ----- */
+
+.long-copy {
+    line-height: 145%;
+    width: 70%;
+    margin-left: 15%;
+}
+
 /* ----- BUTTONS ----- */
 
 .btn:link,
