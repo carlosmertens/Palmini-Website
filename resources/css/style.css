@@ -45,9 +45,17 @@ header {
     margin-top: 20px;
 }
 
-/* ----------- */
-/* MEAL IMAGES */
-/* ----------- */
+/* -------------------- */
+/* SECTION 1 - FEATURES */
+/* -------------------- */
+
+.section-features .long-copy {
+    margin-bottom: 40px;
+}
+
+/* ----------------- */
+/* SECTION 2 - MEALS */
+/* ----------------- */
 
 .section-meals {
     padding: 0;
