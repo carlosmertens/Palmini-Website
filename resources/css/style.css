@@ -105,6 +105,10 @@ header {
 /* SECTION 3 - STEPS */
 /* ----------------- */
 
+.section-steps {
+    background-color: whitesmoke;
+}
+
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
