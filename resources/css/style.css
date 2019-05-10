@@ -129,6 +129,16 @@ header {
     margin-right: 25px;
 }
 
+.btn-store img {
+    height: 50px;
+    width: auto;
+    margin-right: 10px;
+}
+
+.works-step:last-of-type {
+    margin-bottom: 80px;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
