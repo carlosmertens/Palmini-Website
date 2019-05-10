@@ -109,6 +109,10 @@ header {
     padding-left: 3%;
 }
 
+.app-screen {
+    width: 40%;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
