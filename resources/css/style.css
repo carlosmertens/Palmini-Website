@@ -49,6 +49,10 @@ header {
 /* MEAL IMAGES */
 /* ----------- */
 
+.section-meals {
+    padding: 0;
+}
+
 .meals-showcase {
     list-style: none;
     width: 100%;
