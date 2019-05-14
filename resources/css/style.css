@@ -152,6 +152,15 @@ header {
     margin-bottom: 80px;
 }
 
+/* ------------------ */
+/* SECTION 4 - CITIES */
+/* ------------------ */
+
+.box img {
+    width: 100%;
+    height: auto;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
