@@ -159,6 +159,21 @@ header {
 .box img {
     width: 100%;
     height: auto;
+    margin-bottom: 15px;
+}
+
+.city-features {
+    margin-bottom: 5px;
+}
+
+.city-features i {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    color: #20bf6b;
+    font-size: 125%;
+    margin-top: -5px;
+    margin-right: 10px;
 }
 
 /* ------------------- */
