@@ -307,6 +307,14 @@ a:active {
     margin-bottom: 10px;
 }
 
+.icon-small {
+    font-size: 100%;
+    display: inline-block;
+    color: #20bf6b;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
 /* ----- HEADLINES ----- */
 
 h1, h2, h3 {
