@@ -223,9 +223,9 @@ cite img {
     vertical-align: middle;
 }
 
-/* ------------------------ */
+/* ----------------- */
 /* SECTION 6 - PLANS */
-/* ------------------------ */
+/* ----------------- */
 
 .section-plans {
     background-color: whitesmoke;
@@ -277,6 +277,15 @@ cite img {
     background-color: fcfcfc;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+}
+
+/* ------------------------ */
+/* SECTION 7 - CONTACT FORM */
+/* ------------------------ */
+
+.contact-form {
+    width: 60%;
+    margin: 0 auto;
 }
 
 /* ------------------- */
