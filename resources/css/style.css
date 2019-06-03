@@ -223,6 +223,14 @@ cite img {
     vertical-align: middle;
 }
 
+/* ------------------------ */
+/* SECTION 6 - PLANS */
+/* ------------------------ */
+
+.section-plans {
+    background-color: whitesmoke;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
