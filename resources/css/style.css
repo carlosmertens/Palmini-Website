@@ -298,6 +298,10 @@ textarea {
     border: 1px solid #ccc;
 }
 
+textarea {
+    height: 100px;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
