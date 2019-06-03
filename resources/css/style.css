@@ -194,6 +194,12 @@ header {
     background-attachment: fixed;
 }
 
+blockquote {
+    padding: 2%;
+    font-style: italic;
+    line-height: 145%;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
