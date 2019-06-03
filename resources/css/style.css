@@ -236,6 +236,7 @@ cite img {
     border-radius: 5px;
     width: 90%;
     margin-left: 5%;
+    box-shadow: 0 2px 2px #80e9c1;
 }
 
 .plan-box div {
@@ -265,6 +266,17 @@ cite img {
 
 .plan-box ul li {
     padding: 5px 0;
+}
+
+.plan-box div:last-child {
+    text-align: center;
+    border: 0;
+}
+
+.plan-box div:first-child{
+    background-color: fcfcfc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 /* ------------------- */
