@@ -310,6 +310,14 @@ input[type=checkbox] {
     outline: none;
 }
 
+/* ------ */
+/* FOOTER */
+/* ------ */
+
+footer {
+    background-color: #333;
+}
+
 /* ------------------- */
 /* REUSABLE COMPONENTS */
 /* ------------------- */
