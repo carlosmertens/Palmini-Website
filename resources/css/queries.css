@@ -1,8 +1,15 @@
 /* ## MEDIA QUERIES AND BREAKPOINTS ## */
 
 /* Big tablets to 1200 pixels (smaller widths than the 1140px row) */
-@media only screen and (max-width:1200px) {
-    
+@media only screen and (max-width: 1200px) {
+    .header-text-box {
+        width: 100%;
+        padding: 0 2%;
+    }
+
+    .row {
+        padding: 0 2%;
+    }
 }
 
 /* Small tablets to big tablets from 768 to 1023 pixels */
