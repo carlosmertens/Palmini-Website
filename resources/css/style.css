@@ -622,3 +622,13 @@ input[type=submit]:active {
 .sticky .logo-black {
     display: block;
 }
+
+/* ----- ANIMATIONS ----- */
+
+.js--wp-1 {
+    opacity: 0;
+}
+
+.js-wp-1.animated {
+    opacity: 1;
+}
