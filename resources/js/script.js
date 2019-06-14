@@ -38,4 +38,11 @@ $(document).ready(function() {
     }, {
         offset: '50%'
     })
+
+    $('.js--wp-2').waypoint(function(directio) {
+        $('.js--wp-2').addClass('animated fadeInUp');
+    }, {
+        offset: '50%'
+    })
+
 });
