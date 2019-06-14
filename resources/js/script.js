@@ -45,4 +45,10 @@ $(document).ready(function() {
         offset: '50%'
     })
 
+    $('.js--wp-3').waypoint(function(directio) {
+        $('.js--wp-3').addClass('animated fadeIn');
+    }, {
+        offset: '50%'
+    })
+
 });
