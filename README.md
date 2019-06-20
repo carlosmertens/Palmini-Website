@@ -1,4 +1,4 @@
-# Sonnenschein Website
+# Palmini Website
 This website is being create for a family business. I do not have web-developing experience but I do have a great desire to constantly be learning. Therefore, I am taking a MOOC (massive open online courses) course and working on the project in parallel.  
 
 **Course:** [Build Responsive Real World Website with HTML5 and CSS3](https://www.udemy.com/design-and-develop-a-killer-website-with-html5-and-css3/)
