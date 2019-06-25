@@ -42,9 +42,9 @@ header {
       from(rgba(0, 0, 0, 0.7)),
       to(rgba(0, 0, 0, 0.7))
     ),
-    url(images/header_imgage.jpg);
+    url(images/dish_background.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(images/header_imgage.jpg);
+    url(images/dish_background.jpg);
   background-size: cover;
   background-position: center;
   height: 100vh;
